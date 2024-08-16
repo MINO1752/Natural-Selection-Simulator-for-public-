@@ -1,3 +1,5 @@
+작동시키려면 코드 내에 파일 주소를 수정해야 합니다.
+
 main_simulation.py : 메인 시뮬레이션
 
 random_making.py : 난수 생성기
